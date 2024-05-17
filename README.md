@@ -1,17 +1,19 @@
+# XOR-Based Text Encryption/Decryption in Python
+
 This Python script implements a simple XOR-based encryption and decryption algorithm for text data. It provides functionalities for both encrypting plaintext messages and decrypting previously encrypted text using a user-defined key.
 
-Features
+## Features
 Encrypt and decrypt text messages using XOR operation.
 Generate random keys for encryption or use user-provided keys.
 Display detailed encryption/decryption steps for educational purposes.
 
-Usage
+## Usage
 Clone this repository or download the script.
 Open a terminal window and navigate to the script's directory.
 Run the script using python xor_cipher.py.
 Follow the prompts to select encryption or decryption, provide the plaintext/ciphertext, and optionally enter a key.
-Example
-Encrypt a message:
+## Example
+### Encrypt a message:
 
 Select an option:
 1. Encrypt
@@ -35,7 +37,7 @@ Encryption Steps:
 | ... (remaining characters) ... |             |               |              |            |
 
 Encrypted Text: d00c0d1f... (truncated)
-Decrypt a message (using the same key):
+### Decrypt a message (using the same key):
 
 Select an option:
 1. Encrypt
