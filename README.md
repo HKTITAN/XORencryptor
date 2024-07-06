@@ -2,6 +2,8 @@
 
 This Python script implements a simple XOR-based encryption and decryption algorithm for text data. It provides functionalities for both encrypting plaintext messages and decrypting previously encrypted text using a user-defined key.
 
+Learn More: https://youtu.be/QqiFrOG-IvU?si=JqLvjH_X4Mcrz1au
+
 ## Features
 Encrypt and decrypt text messages using XOR operation.
 Generate random keys for encryption or use user-provided keys.
